@@ -1,6 +1,6 @@
 # OOP-IN-PHP
 // Define Two Interface 
-/* An Interface is like a template similar to abstract class
+An Interface is like a template similar to abstract class
 with a difference where it uses only abstract methods.
 
 In simple words, an interface is like a class using
@@ -48,6 +48,7 @@ Let’s consider a class where we have to store users name, social security id a
 	protected $tax;
  
 }
+
 Public – The method is publicly available and can be accessed by all subclasses.
 Protected – the method / function / property is available to the parent class and all inheriting classes or we call them subclasses or child classes.
 Private – the method is private and only available to the parent class / base class.
@@ -57,4 +58,4 @@ What is polymorphism in Object Oriented Programming (OOP)?
 - Polymorphism means one name many forms.
 - One function behaves different forms.
 - In other words, “Many forms of a single object is called Polymorphism.”
-*/
+
