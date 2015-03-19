@@ -50,6 +50,7 @@ Let’s consider a class where we have to store users name, social security id a
 }
 
 Public – The method is publicly available and can be accessed by all subclasses.
+
 Protected – the method / function / property is available to the parent class and all inheriting classes or we call them subclasses or child classes.
 Private – the method is private and only available to the parent class / base class.
 --------------------------------------------------
