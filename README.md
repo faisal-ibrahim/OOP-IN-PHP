@@ -11,10 +11,13 @@ An Interface should be implemented in the class and all the
 methods or functions should be overridden in this class.
 
 interfaces are used to implement multiple inheritance.because PHP does not support multiple inheritance.
-------------------------------------------------------------------
+
 Abstract Classes
+------------------------------------------------------------------
 An abstract class is like a normal class, except that you cannot instantiate them, you must extend them first then instantiate.
  Your abstract classes can have data members and function calls (and their functionality).
+ 
+ Encapsulation
 ------------------------------------------------------------------ 
  What is Encapsulation?
 
@@ -53,6 +56,7 @@ Public – The method is publicly available and can be accessed by all subclasse
 
 Protected – the method / function / property is available to the parent class and all inheriting classes or we call them subclasses or child classes.
 Private – the method is private and only available to the parent class / base class.
+polymorphism
 --------------------------------------------------
 What is polymorphism in Object Oriented Programming (OOP)?
 
